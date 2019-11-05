@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -17,8 +21,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
     <keyboard-shortcut first-keystroke="ctrl numpad5" />
   </action>
+  <action id="MoveElementLeft" />
   <action id="QuickChangeScheme" />
   <action id="ShowFilterPopup" />
+  <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
